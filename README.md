@@ -15,7 +15,10 @@ Join Channel and Grup Pentil.Pink
 
 |                    Run                     |
 | ------------------------------------------ | 
-| `node index.js` `put query_id in data.txt` |
+|            `node index.js`                 |
+|  U can add multiple account just type ","  |
+example : query_id=AAAAAAAAAA , query_id=BBBBBBBBB
+
 
 ## Install
 
@@ -25,6 +28,5 @@ Join Channel and Grup Pentil.Pink
 - type " npm install "
 
 ## ⚠️ Note
-
 - Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
 
