@@ -18,10 +18,11 @@ Join Channel and Grup Pentil.Pink
 | `node index.js` `put query_id in data.txt` |
 
 ## Install
-Download NodeJS
-open cmd
-type " git clone https://github.com/pakforlay/frogs-inject/ "
-type " npm install "
+
+- Download NodeJS
+- open cmd
+- type " git clone https://github.com/pakforlay/frogs-inject/ "
+- type " npm install "
 
 ## ⚠️ Note
 
