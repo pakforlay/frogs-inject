@@ -1,0 +1,24 @@
+{
+  "name": "frogs-inject",
+  "version": "1.0.0",
+  "description": "Frogs Inject Coins, this tools fetching data from https://pentil.pink/frog/",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakforlay/frogs-inject.git"
+  },
+  "author": "PakForlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakforlay/frogs-inject/issues"
+  },
+  "homepage": "https://github.com/pakforlay/frogs-inject#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
