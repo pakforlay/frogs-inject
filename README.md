@@ -2,19 +2,26 @@
 
 🔗 **Referral Link**: [Frogs](https://t.me/Frogs_HouseBot?start=783802408)
 
-## 📢 Telegram Group
+## 📢 Telegram Channel (Pentil.Pink)
 
-Join our Telegram group to stay updated and get instructions on how to use this tool:
+Im Just Fetching data from [Pentil.Pink](https://pentil.pink/frog/)
+Join Channel and Grup Pentil.Pink
 
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+- [Pentil.Pink - Channel](https://t.me/pentilofficial)
+- [Pentil.Pink - Group](https://t.me/xPentilOfficial)
 
 
 ## 🚀 Run File
 
-| Run                   
+|                    Run                     |
 | ------------------------------------------ | 
 | `node index.js` `put query_id in data.txt` |
+
+## Install
+Download NodeJS
+open cmd
+type " git clone https://github.com/pakforlay/frogs-inject/ "
+type " npm install "
 
 ## ⚠️ Note
 
